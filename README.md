@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razor3598&label=Profile%20views&color=0e75b6&style=flat" alt="razor3598" /> </p>
 
-- ⚽ I’m looking to collaborate on **Football (Soccer) Projects**
+- ⚽ I’m looking to collaborate on **Sporting Analytics Projects**
 
 - 📝 Read my articles at [https://theoffsideopinion.wordpress.com/](https://theoffsideopinion.wordpress.com/)
 
 - 📄 Know about my experiences [https://sahasrabudhea.sites.northeastern.edu/files/2023/01/AmodSahasrabudhe_resume.pdf](https://sahasrabudhea.sites.northeastern.edu/files/2023/01/AmodSahasrabudhe_resume.pdf)
+
+- 📄 Looking forward to present my research paper, "A Graph Neural Network deep-dive into successful counterattacks". Checkout the [GitHub](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) repository which contains Graph data and a Jupyter Notebook script for training the models.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
