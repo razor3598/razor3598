@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razor3598&label=Profile%20views&color=0e75b6&style=flat" alt="razor3598" /> </p>
 
-- 🔬 Check out my research paper presented at the 2023 MIT Sloan Sports Analytics Conference, "A Graph Neural Network deep-dive into successful counterattacks". A [GitHub](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) repository which contains Graph data and a Jupyter Notebook script for training the models.
+- 🔬 Check out my research paper presented at the 2023 MIT Sloan Sports Analytics Conference, ["A Graph Neural Network deep-dive into successful counterattacks"](https://www.sloansportsconference.com/research-papers/a-graph-neural-network-deep-dive-into-successful-counterattacks). A [GitHub](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) repository which contains Graph data and a Jupyter Notebook script for training the models.
 
 - ⚽ I’m looking to collaborate on **Sporting Analytics Projects**
 
