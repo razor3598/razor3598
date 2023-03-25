@@ -7,7 +7,7 @@
 
 - 🔬 Check out my research paper presented at the 2023 MIT Sloan Sports Analytics Conference, ["A Graph Neural Network deep-dive into successful counterattacks"](https://www.sloansportsconference.com/research-papers/a-graph-neural-network-deep-dive-into-successful-counterattacks). 
 
-- Check out the [GitHub](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) repository which contains tracking data files in a Graph format along with a Jupyter Notebook script for training the models.
+- 👾 Check out the [GitHub](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) repository which contains tracking data files in a Graph format along with a Jupyter Notebook script for training the models.
 
 - 📝 Read my articles at [https://theoffsideopinion.wordpress.com/](https://theoffsideopinion.wordpress.com/)
 
