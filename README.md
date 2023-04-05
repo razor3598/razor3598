@@ -11,7 +11,7 @@
 
 - 📝 Read my articles at [https://theoffsideopinion.wordpress.com/](https://theoffsideopinion.wordpress.com/)
 
-- 📄 Know about my experiences [https://sahasrabudhea.sites.northeastern.edu/files/2023/01/AmodSahasrabudhe_resume.pdf](https://sahasrabudhea.sites.northeastern.edu/files/2023/01/AmodSahasrabudhe_resume.pdf)
+- 📄 Learn about my experiences [https://sahasrabudhea.sites.northeastern.edu/files/2023/01/AmodSahasrabudhe_resume.pdf](https://sahasrabudhea.sites.northeastern.edu/files/2023/04/Amod_Sahasrabudhe_Resume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
